@@ -1,4 +1,4 @@
-# Voice Assistant 
+# AI Voice Assistant 
 Welcome to Nexus voice assistant 
 
 ## Description
