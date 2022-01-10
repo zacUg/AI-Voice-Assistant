@@ -1,0 +1,5 @@
+
+Run the following in the terminal;
+          
+    {what youre converting}     {the name of the converted file}
+pyuic5 -x user_interface.ui -o final_ui.py
